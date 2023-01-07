@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "AsyncNet",
+	"Description": "AsyncNet",
+	"Category": "Other",
+	"CreatedBy": "huiseliming",
+	"CreatedByURL": "https://github.com/huiseliming",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "AsyncNet",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
