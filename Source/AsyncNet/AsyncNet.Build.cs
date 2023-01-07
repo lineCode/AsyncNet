@@ -38,6 +38,7 @@ public class AsyncNet : ModuleRules
 				"Engine",
 				"Slate",
 				"SlateCore",
+				"Networking",
 				// ... add private dependencies that you statically link with here ...	
 			}
 			);
